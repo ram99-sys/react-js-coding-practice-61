@@ -1,0 +1,16 @@
+.layout-container {
+  background-color: #ffffff;
+  height: 60vh;
+  padding: 50px 100px;
+  margin-bottom: 50px;
+}
+.header-container {
+  background-color: #cbd5e1;
+  height: 10vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.header-heading {
+  color: #475569;
+}

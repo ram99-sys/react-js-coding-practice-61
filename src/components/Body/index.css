@@ -1,0 +1,57 @@
+/* Write your CSS here */
+.show-left-navbar {
+  background-color: #e2e8f0;
+  width: 30%;
+  height: 50vh;
+}
+.list-items {
+  list-style-type: none;
+}
+.item {
+  padding: 0px;
+  color: #64748b;
+}
+.left-navbar-heading {
+  padding: 30px 20px 10px 30px;
+  color: #475569;
+}
+.show-content-container {
+  background-color: #f1f5f9;
+  width: 40%;
+  height: 50vh;
+  padding: 20px;
+  padding-top: 30px;
+}
+.body-container {
+  display: flex;
+}
+.content {
+  color: #475569;
+  margin-bottom: 10px;
+}
+.text {
+  color: #64748b;
+}
+.right-navbar {
+  background-color: #e2e8f0;
+  height: 50vh;
+  width: 30%;
+  padding-top: 30px;
+  padding-left: 20px;
+}
+.body-header-text {
+  color: #475569;
+  padding-bottom: 10px;
+}
+.ad-box-container {
+}
+
+.ad-box {
+  height: 120px;
+  width: 120px;
+  border: 1px solid #64748b;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 10px;
+}

@@ -1,0 +1,24 @@
+.top-section-container {
+  background-color: #475569;
+  height: 25vh;
+  padding: 20px;
+  padding-left: 50px;
+}
+* {
+  margin: 0px;
+  box-sizing: border-box;
+  color: #ffffff;
+}
+.options-container {
+  display: flex;
+  list-style-type: none;
+  flex-direction: column;
+  padding: 0px;
+}
+.checkbox {
+  margin-right: 10px;
+}
+.layout-heading {
+  font-size: 40px;
+  margin-bottom: 20px;
+}

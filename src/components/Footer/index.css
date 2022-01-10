@@ -1,0 +1,12 @@
+/* Write your CSS here */
+.footer-container {
+  background-color: #cbd5e1;
+  height: 10vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 50px;
+}
+.footer-heading {
+  color: #475569;
+}
